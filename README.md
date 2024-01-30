@@ -1,8 +1,8 @@
-# React + Vite
+# Dynamic Kanban Board Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a dynamic Kanban board application built using React and styled with Tailwind CSS. It facilitates efficient task management and enhances user interactivity through a seamless drag-and-drop feature, enabled by the integration of the `react-beautiful-dnd` library.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Dynamic Task Management**: Users can manage tasks dynamically across different stages.
+- **Seamless Drag-and-Drop**: Tasks can be easily moved between columns using intuitive drag-and-drop functionality.
